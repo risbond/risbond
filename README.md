@@ -1,4 +1,8 @@
-```javascript
+<h1 align="center">Samuel Risbond Lugona</h1>
+
+<h2 align="center">A little About me</h2>
+
+```ts
 import SoftwareDeveloper, { MyBiography } from 'risbond';
 
 export default class Bio extends SoftwareDeveloper {
@@ -13,7 +17,7 @@ export default class Bio extends SoftwareDeveloper {
       "- 🔭 I’m currently working at":      `${this.company} as ${this.title}`,
       "- 👯 I’m looking to collaborate on": "Node, React, PHP, Python and any other Javascript related projects",
       "- 💬 Ask me about":                  "Node, React, PHP, SQL, CSS, Software Design & Architecture, Web-Development and any thing Photoshop related",
-      "- 📫 How to reach me:":              "samrisbond@gmail.com",
+      "- 📫 Reach me at:":              "samrisbond@gmail.com",
     };
   }
 }
