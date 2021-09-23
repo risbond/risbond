@@ -1,4 +1,4 @@
-````
+```
 import SoftwareDeveloper, { MyBiography } from 'risbond';
 
 export default class Bio extends SoftwareDeveloper {
@@ -17,4 +17,4 @@ export default class Bio extends SoftwareDeveloper {
     };
   }
 }
-````
+```
